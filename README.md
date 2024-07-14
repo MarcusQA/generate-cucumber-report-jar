@@ -13,14 +13,17 @@ This will output the jar on path `./build/libs/CucumberReportGenerator.jar`
 First ensure you have a cucumber JSON file.
 
 Execute `CucumberReportGenerator.jar` with the following arguments:
-
+```
 0. Full path to Cucumber JSON file.
 1. Full path to Cucumber report output directory.
 2. Project name.
+```
 
 The following arguments are optional:
+```
 3. Platform.
 4. Browser.
+```
 
 Examples:
 ```
