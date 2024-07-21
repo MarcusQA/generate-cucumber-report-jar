@@ -7,7 +7,7 @@ Run the following from the root of the project:
 ./gradlew clean generateFatJar
 ```
 
-This will output the jar on path `./build/libs/CucumberReportGenerator.jar`
+This will output the .jar file on path `./build/libs/CucumberReportGenerator.jar`
 
 # Use generated fat .jar file
 First ensure you have a cucumber JSON file.
